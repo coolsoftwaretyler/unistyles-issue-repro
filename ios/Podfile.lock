@@ -1824,7 +1824,7 @@ PODS:
     - ReactCommon/turbomodule/core
     - Yoga
   - SocketRocket (0.7.1)
-  - Unistyles (3.0.0-beta.4):
+  - Unistyles (3.0.0-beta.5):
     - DoubleConversion
     - glog
     - hermes-engine
@@ -2199,7 +2199,7 @@ SPEC CHECKSUMS:
   RNReanimated: 9ee6347ca0aa3cf78cae715455e781728ae142e2
   RNScreens: d022507f2b6d76c73335e9e35aedcf7bb2f791b0
   SocketRocket: d4aabe649be1e368d1318fdf28a022d714d65748
-  Unistyles: 2214423ebf334057bf495398dc02b04d68894ccb
+  Unistyles: c2dd25929bf0a5ee7e2b159db5c6a22a01f6ae54
   Yoga: be6f55a028e86c83ae066f018e9b5d24ffc45436
 
 PODFILE CHECKSUM: edb69ae7dbfa72d814ffa876979e191ed53786fa
